@@ -1,1 +1,1 @@
-# Fortgeschrittenenkurs-15.-16.10.
+# Fortgeschrittenenkurs-15./16.10.
