@@ -1,0 +1,8 @@
+Ideen 17.09.2022
+
+- Wiederholung (1 Std.)
+- Datenstrukturen (Listen, Dictionaries): Listen mit for-loops einführen (for-loops sind auch neu), Übung dazu zum Beispiel append(), 
+reverse(), wie kann man auf die Elemente in der Liste zugreifen, dann dictionary einführen mit Übung
+- funktionen, Fabrik Beispiel erklären
+- Projekt für den 2. Tag: Datei als Liste auslesen und darin bestimmte Wörter finden/zählen, tic tac toe, 
+Kinderpartyspiel lustige Sätze Generator (mit dict: {'wer?': ['Anna', 'Beate']})
